@@ -30,20 +30,20 @@
   </style>
   
   <nav>
-    <a href="#home">Início</a>
-    <a href="#sobre">Sobre</a>
-    <a href="#contato">Contato</a>
+    <a href="abuble">Início</a>
+    <a href="cinema">Sobre</a>
+    <a href="coelho">Contato</a>
   </nav>
   
-  <div id="home">
+  <div id="abuble">
     <h1>Bem-vindo ao Início!</h1>
   </div>
   
-  <div id="sobre">
+  <div id="cinema">
     <h1>Sobre nós</h1>
   </div>
   
-  <div id="contato">
+  <div id="coelho">
     <h1>Contato</h1>
   </div>
   
