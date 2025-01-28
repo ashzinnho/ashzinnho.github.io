@@ -28,11 +28,11 @@
       color: black;
     }
   </style>
-  
+  <body>
   <nav>
-    <a href="abuble">Início</a>
-    <a href="cinema">Sobre</a>
-    <a href="coelho">Contato</a>
+    <a href="#home">Início</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#contato">Contato</a>
   </nav>
   
   <div id="home">
@@ -46,4 +46,4 @@
   <div id="contato">
     <h1>Contato</h1>
   </div>
-  
+</body>
