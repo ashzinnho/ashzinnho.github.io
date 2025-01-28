@@ -30,9 +30,9 @@
   </style>
 
   <nav>
-    <a href="abuble">Início</a>
-    <a href="cinema">Sobre</a>
-    <a href="coelho">Contato</a>
+    <a href="https://ashzinnho.github.io/abuble">Início</a>
+    <a href="https://ashzinnho.github.io/cinema">Sobre</a>
+    <a href="https://ashzinnho.github.io/coelho">Contato</a>
   </nav>
   <body>
   <div id="home">
