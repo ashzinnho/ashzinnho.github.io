@@ -28,13 +28,13 @@
       color: black;
     }
   </style>
-  <body>
+
   <nav>
-    <a href="#home">Início</a>
-    <a href="#sobre">Sobre</a>
-    <a href="#contato">Contato</a>
+    <a href="abuble">Início</a>
+    <a href="cinema">Sobre</a>
+    <a href="coelho">Contato</a>
   </nav>
-  
+  <body>
   <div id="home">
     <h1>Bem-vindo ao Início!</h1>
   </div>
