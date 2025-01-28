@@ -12,11 +12,11 @@
         }
         nav {
             background-color: #333;
-            overflow: hidden;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px;
         }
         nav a {
-            float: left;
-            display: block;
             color: white;
             text-align: center;
             padding: 14px 20px;
