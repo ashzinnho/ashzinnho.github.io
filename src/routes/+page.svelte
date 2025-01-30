@@ -28,9 +28,9 @@
 </style>
 
 <nav>
-  <a href="#abuble">Início</a>
-  <a href="#cinema">Sobre</a>
-  <a href="#coelho">Contato</a>
+  <a href="abuble">Início</a>
+  <a href="cinema">Sobre</a>
+  <a href="coelho">Contato</a>
 </nav>
 <body>
 <div id="home">
