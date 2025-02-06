@@ -1,34 +1,30 @@
-<div id="banner">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImJyIiKawK2-wTZ7630HCH25rr7rcYZHgQgqstosanPELik0i1SyorQkRwgRxrtLA2HI&usqp=CAU" class="img-fluid" alt="...">
- </div>
- 
-<div id="home">
-	<h1>Bem-vindo ao Início!</h1>
-</div>
 
-<div id="sobre">
-	<h1>Sobre nós</h1>
-</div>
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ordem Paranormal Personagens</title>
+    <style>
+    
+        .main-container {
+            background-color: #000;
+            color: white;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+			text-align: center;
+        }
 
-<div id="contato">
-	<h1>Contato</h1>
-</div>
-<style>
+      
+        .main-container h1 {
+            margin: 10px 0;
+        }
 
-	body {
-		margin: 0;
-		padding: 10px;
-		background-color: rgba(0, 0, 0, 0.7);
-		border-radius: 10px;
-	}
+    </style>
 
-	.card {
-		max-width: 540px;
-		margin: 20px auto;
-	}
-
-	.card-body {
-		background-color: white;
-		color: black;
-	}
-</style>
+    <div class="main-container">
+        <div id="home">
+            <h1>Guia de personagens</h1>
+			<h1>Ordem Paranormal RPG</h1>
+        </div>
+    </div>

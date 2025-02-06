@@ -33,7 +33,7 @@
 
 <nav>
   <a href="/">Início</a>
-  <a href="/filmes">Conhecimento</a>
+  <a href="/conhecimento">Conhecimento</a>
   <a href="/energia">Energia</a>
   <a href="/morte">Morte</a>
   <a href="/sangue">Sangue</a>
