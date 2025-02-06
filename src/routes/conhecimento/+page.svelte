@@ -32,8 +32,8 @@
         }
 
         .card-body {
-            background-color: #222; /* Fundo escuro nas áreas do card */
-            color: white; /* Texto branco dentro do card */
+            background-color: #222; 
+            color: white; 
         }
 
         .card:hover {
